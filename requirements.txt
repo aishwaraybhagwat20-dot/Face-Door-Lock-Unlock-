@@ -1,0 +1,8 @@
+face_recognition
+face_recognition_models
+opencv-python
+numpy
+PySimpleGUI
+Pillow
+click
+colorama
